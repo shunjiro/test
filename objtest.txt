@@ -1,5 +1,9 @@
 obj-c testwee
 
+<<<<<<< HEAD
 new
 
 re : test
+=======
+new test
+>>>>>>> master
